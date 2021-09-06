@@ -1,0 +1,13 @@
+Summary of 50 Years of Data Science 
+
+
+What is Data science?
+Today data science is a big moment.  There has been a great surge in data science jobs in recent years. Yet, the definition of what is data science is unclear. One of the main problems faced in defining data science is the distinction between Statistics and Data science. 
+There was/is a great frustration among statisticians as to what exactly is the difference between data science and statistics. Some of the distinctions defined by people was in terms of big data, skills and in terms of jobs. But this doesn’t hold any water as there is an equal if not more role of statisticians in this arena.  Statisticians have been dealing with big data since a long time and they certainly have the skills required to deal with such big data.
+There were many efforts by scientists like john turkey, Cleveland and Chambers to broaden the meaning of statistics - involving a mixture of statistics and machine learning. The efforts start to conclude in saying the quantitative program is what the distinction is. In Breiman’s “Two Cultures”, analyzing the data involves two goals – prediction and inference, where as most the statistics is done through inference. Another one of the successful definitions comes in the form of Mark Libermans’ Common Task Framework (CTF) – which has 3 ingredients – 1. Training data set, 2. Class prediction rules for the training data, 3. Testing of the data to assess the prediction accuracy. The fields where machine learning has scored success are essentially those fields where CTF has been applied successfully. You can say that the combination of predictive modeling and CTF as the secret sauce of machine learning- which is an important part of data science. In short, information technology skills are at the heart of the qualifications needed to work in data science. However, scientific understanding and statistical insight are also important components to consider in defining what data science is.
+
+
+
+
+
+
